@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item p{
+    text-decoration: none;
+    color: white;
+    margin: 2px;
+    padding: 2px;
+}
+
+li p:hover{
+    background-color: white;
+    color: #5d6770;
+}
+
+li p:active{
+    background-color: dodgerblue;
+    color: white;
+}
